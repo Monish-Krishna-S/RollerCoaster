@@ -40,10 +40,10 @@ Note: If no member fails on the given customer timing. that customer will be all
 
 Explanation:
 1. For (i)
-Yes - as the member at '3' is of height '10', he would allow a customer with height '11'
-Yes - as there is no member at that schedule, customer will be allowed
-No - as the member at '8' is of height '12', he would not allow a customer with height '5'
+	Yes - as the member at '3' is of height '10', he would allow a customer with height '11'
+	Yes - as there is no member at that schedule, customer will be allowed
+	No - as the member at '8' is of height '12', he would not allow a customer with height '5'
 
 2. For (ii)
-Yes - as the member at '7' is of height '12', he would allow a customer with height '15'
-Yes - as there is no member at that schedule, customer will be allowed
+	Yes - as the member at '7' is of height '12', he would allow a customer with height '15'
+	Yes - as there is no member at that schedule, customer will be allowed
