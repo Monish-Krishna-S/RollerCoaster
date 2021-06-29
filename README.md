@@ -2,13 +2,13 @@
 A roller coaster is being maintained by a group who take shifts to handle the crowds. As per the rules they came up with, they only allow customers who are taller than them to ride. Given the heights and the shift timing of all the members of the group and the heights of customers entering the roller coaster at that time, check whether that customer will be allowed or not.
 
 Input:
-	1.	Given number 'n' specifying the numberof members
-	2.	'n' number of values in the following order
-		1. Height
-		2. Shift timing starting hour (inclusive)
-		3. Shift timing ending hour (inclusive)
-	3.	Given 'n1' specifying the number of customers
-	4. 	'n1' number of height and timing of each customer, provide output as 'yes' or 'no' to indicate if he will be allowed to ride or not.
+1. Given number 'n' specifying the numberof members
+2. 'n' number of values in the following order
+	1. Height
+	2. Shift timing starting hour (inclusive)
+	3. Shift timing ending hour (inclusive)
+3. Given 'n1' specifying the number of customers
+4. 'n1' number of height and timing of each customer, provide output as 'yes' or 'no' to indicate if he will be allowed to ride or not.
 
 Note: If no member fails on the given customer timing. that customer will be allowed to ride.
 
