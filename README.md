@@ -31,7 +31,7 @@ Note: If no member fails on the given customer timing. that customer will be all
 		10 1 5
 		12 6 8
 		8 9 10
-		3
+		2
 		15 7
 		5 12
 		Sample Output 2:
